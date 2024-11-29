@@ -1,0 +1,10 @@
+{
+  "dependencies_provided": [
+    {
+      "name": "Mod",
+      "type": "mod"
+    }
+  ],
+  "cancelable": false,
+  "side": "both"
+}

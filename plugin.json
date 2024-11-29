@@ -1,0 +1,22 @@
+{
+  "id": "modslivecycle",
+  "weight": 30,
+  "minversion": 0,
+  "supportedversions": [
+    202400115713,
+    2024001,
+    2023004,
+    2024002,
+    202400115821,
+    202300499999,
+    202300400000,
+    2024003
+  ],
+  "info": {
+    "name": "Mods live cycle",
+    "version": "1.0",
+    "description": "Unknown",
+    "author": "OVONSAME",
+    "credits": "Made with MCreator plugin builder by NerdyPuzzle"
+  }
+}
