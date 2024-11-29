@@ -1,4 +1,5 @@
 {
   "color": "#432e54",
-  "api": false
+  "api": false,
+  "parent_category": "addons_support"
 }
