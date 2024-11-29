@@ -5,8 +5,7 @@
   "output": "Mod",
   "colour": "#432e54",
   "mcreator": {
-    "toolbox_id": "blockdata",
-    "toolbox_init": [
-    ]
+    "toolbox_id": "mod_cycle",
+    "toolbox_init": []
   }
 }

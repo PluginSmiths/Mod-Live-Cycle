@@ -20,10 +20,10 @@
   "nextStatement": null,
   "colour": "#432e54",
   "mcreator": {
-    "toolbox_id": "blockdata",
+    "toolbox_id": "mod_cycle",
     "toolbox_init": [
       "<value name=\"mod\"><block type=\"variables_get_mod\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" is_player_var=\"false\" has_entity=\"false\"></mutation><field name=\"VAR\"></field></block></value>",
-      "<value name=\"mod_iterator\"><block type=\"variables_get_mod\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" is_player_var=\"false\" has_entity=\"false\"></mutation><field name=\"VAR\"></field></block></value>"
+      "<value name=\"item\"><block type=\"mod_iterator\"></block></value>",
     ],
     "inputs": [
       "mod",

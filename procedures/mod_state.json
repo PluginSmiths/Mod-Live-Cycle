@@ -60,7 +60,7 @@
   "output": "Boolean",
   "colour": "#607c99",
   "mcreator": {
-    "toolbox_id": "blockdata",
+    "toolbox_id": "mod_cycle",
     "toolbox_init": [
       "<value name=\"mod\"><block type=\"mcitem_allblocks\"><field name=\"value\"></field></block></value>"
     ],
