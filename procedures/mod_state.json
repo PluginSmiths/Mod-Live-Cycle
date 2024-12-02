@@ -3,7 +3,7 @@
     {
       "type": "input_value",
       "name": "mod",
-      "check": "MCItemBlock"
+      "check": "Mod"
     },
     {
       "type": "field_dropdown",
@@ -62,7 +62,8 @@
   "mcreator": {
     "toolbox_id": "mod_cycle",
     "toolbox_init": [
-      "<value name=\"mod\"><block type=\"mcitem_allblocks\"><field name=\"value\"></field></block></value>"
+      "<value name=\"mod\"><block type=\"mcitem_allblocks\"><field name=\"value\"></field></block></value>",
+      "<value name=\"mod\"><block type=\"variables_get_mod\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" is_player_var=\"false\" has_entity=\"false\"></mutation><field name=\"VAR\"></field></block></value>"
     ],
     "inputs": [
       "mod"
