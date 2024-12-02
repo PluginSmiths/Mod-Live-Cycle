@@ -15,8 +15,7 @@
   "info": {
     "name": "Mods live cycle",
     "version": "1.0",
-    "description": "Unknown",
-    "author": "OVONSAME",
-    "credits": "Made with MCreator plugin builder by NerdyPuzzle"
+    "description": "Additional plugin for CAS that adds procedures and variables to work with mods info.",
+    "author": "OVONSAME"
   }
 }
