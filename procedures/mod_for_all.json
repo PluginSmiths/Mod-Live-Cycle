@@ -2,11 +2,6 @@
   "args0": [
     {
       "type": "input_value",
-      "name": "mod",
-      "check": "Mod"
-    },
-    {
-      "type": "input_value",
       "name": "mod_iterator",
       "check": "Mod"
     },
@@ -22,11 +17,9 @@
   "mcreator": {
     "toolbox_id": "mod_cycle",
     "toolbox_init": [
-      "<value name=\"mod\"><block type=\"variables_get_mod\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" is_player_var=\"false\" has_entity=\"false\"></mutation><field name=\"VAR\"></field></block></value>",
       "<value name=\"mod_iterator\"><block type=\"mod_iterator\"></block></value>",
     ],
     "inputs": [
-      "mod",
       "mod_iterator"
     ],
     "statements": [
