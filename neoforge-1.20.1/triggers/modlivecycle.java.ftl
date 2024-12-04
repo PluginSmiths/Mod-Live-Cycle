@@ -5,7 +5,7 @@ public class ${name}Procedure {
     public static void onEventTriggered(ModLifecycleEvent event) {
         <#assign dependenciesCode><#compress>
             <@procedureDependenciesCode dependencies, {
-            "Mod": "ModList.get().getModContainerById("${modid}").orElse(null);",
+            "Mod": "ModList.get().getModContainerById("${modid}").orElse(null)",
             "event": "event"
             }/>
         </#compress></#assign>
