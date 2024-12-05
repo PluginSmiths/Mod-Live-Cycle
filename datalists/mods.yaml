@@ -102,5 +102,5 @@
   readable_name: "Botarium"
 - citadel:
   readable_name: "Citadel"
-- ${modid}:
-  readable_name: "${modid}"
+- current_mod:
+  readable_name: "Current Mod"

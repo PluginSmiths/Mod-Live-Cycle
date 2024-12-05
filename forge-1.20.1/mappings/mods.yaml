@@ -49,4 +49,4 @@ balm: balm
 cosmetic_armory: cosmetic_armory
 botarium: botarium
 citadel: citadel
-${modid}: ${modid}
+current_mod: current_mod
