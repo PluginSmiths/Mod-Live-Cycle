@@ -1,5 +1,5 @@
 <#if field$mod == "current_mod">
-${modid}
+"${modid}"
 <#else>
-${field$mod}
+"${field$mod}"
 </#if>
